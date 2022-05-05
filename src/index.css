@@ -40,6 +40,7 @@ code {
 .about,
 .projects,
 .experience,
+.education,
 .social,
 .footer {
   padding: 50px 25px 25px;
@@ -79,7 +80,10 @@ code {
 }
 
 .header__content button {
-  margin: 25px auto 0;
+  margin: 10 10 10px 25px; 
+  border: none;
+  border-radius: 8px;
+
 }
 
 /* ------------------------------------------------------ */

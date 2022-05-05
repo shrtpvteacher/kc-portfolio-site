@@ -5,21 +5,16 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>Clayton State University</i>, 2014-2018
+                    <i>Crypto Trade & Project Analysis</i>, 2021-current
                     <ul>
-                        <li>Graduated with 3.00 GPA</li>
+                        <li>For Projects on Ethereum, BSC, and Cardano Blockchains</li>
                     </ul>
                 </li>
                 <li>
-                    <i>TechFlow</i> - <strong>Blockchain Developer Intern</strong>, 2018-2019
+                    <i>Dapp University</i> - <strong>Blockchain Development</strong>, 2021-2022
                     <ul>
                         <li>Studied DApp development</li>
                         <li>Assisted Research &amp; Development on Web3 Products</li>
-                    </ul>
-                </li>
-                <li>
-                    <i>SpiderChain</i> - <strong>Blockchain Developer</strong>, 2019-2022
-                    <ul>
                         <li>Contributed to smart contract development on client's platform</li>
                         <li>Peer reviewed &amp; Audited Solidity code</li>
                     </ul>
